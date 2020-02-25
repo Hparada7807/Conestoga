@@ -1,0 +1,6 @@
+C:\Users\latin\Documents\PROG2070-Programming Software\PROG2070HPAssign2\PROG2070HPAssign2\bin\Debug\PROG2070HPAssign2.exe.config
+C:\Users\latin\Documents\PROG2070-Programming Software\PROG2070HPAssign2\PROG2070HPAssign2\bin\Debug\PROG2070HPAssign2.exe
+C:\Users\latin\Documents\PROG2070-Programming Software\PROG2070HPAssign2\PROG2070HPAssign2\bin\Debug\PROG2070HPAssign2.pdb
+C:\Users\latin\Documents\PROG2070-Programming Software\PROG2070HPAssign2\PROG2070HPAssign2\obj\Debug\PROG2070HPAssign2.csprojAssemblyReference.cache
+C:\Users\latin\Documents\PROG2070-Programming Software\PROG2070HPAssign2\PROG2070HPAssign2\obj\Debug\PROG2070HPAssign2.exe
+C:\Users\latin\Documents\PROG2070-Programming Software\PROG2070HPAssign2\PROG2070HPAssign2\obj\Debug\PROG2070HPAssign2.pdb
